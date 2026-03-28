@@ -1,3 +1,5 @@
+## Hi! 
+
 # 👩‍💻 Komal | Full Stack Developer
 
 🚀 Building scalable web applications with modern technologies
@@ -58,7 +60,7 @@ Aspiring Full Stack Developer with hands-on experience in building dynamic and r
 ---
 
 ⭐ *Committed to continuous learning and building impactful digital solutions.*
-## Hi there 👋
+
 
 <!--
 **guptabhai9211-netizen/guptabhai9211-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
