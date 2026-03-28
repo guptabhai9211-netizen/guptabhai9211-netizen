@@ -1,4 +1,4 @@
-# 👩‍💻 Anjali | Full Stack Developer
+# 👩‍💻 Komal | Full Stack Developer
 
 🚀 Building scalable web applications with modern technologies
 💡 Focused on problem-solving, clean code, and real-world impact
