@@ -52,7 +52,7 @@ Aspiring Full Stack Developer with hands-on experience in building dynamic and r
 
 ## 🌐 Professional Links
 
-* 💼 LinkedIn: linkedin.com/in/komal-gupta-446a373a6
+* 💼 LinkedIn: https://www.linkedin.com/in/komal-gupta-446a373a6/
 * 💻 GitHub: https://github.com/guptabhai9211-netizen
 
 ---
